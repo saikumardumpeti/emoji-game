@@ -1,0 +1,41 @@
+/* Write your code here. */
+.playButton {
+  background-color: #ffce27;
+  border-width: 0;
+  padding: 12px;
+  padding-left: 18px;
+  padding-right: 18px;
+  font-weight: 600;
+  border-radius: 15px;
+}
+.wlH1 {
+  font-size: 50px;
+}
+.wlP {
+  font-size: 25px;
+  margin-bottom: 0;
+}
+.wlScore {
+  color: #6a59ff;
+  font-size: 28px;
+  margin-top: 0;
+}
+.wlLeftDiv {
+  margin-right: 35px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.wlDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  width: 75vw;
+}
+.finalImg {
+  width: 30vw;
+}

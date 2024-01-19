@@ -1,0 +1,29 @@
+/* Write your code here. */
+.navDiv {
+  background-color: #9796f0;
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  padding-right: 6vw;
+  padding-left: 6vw;
+  color: #ffffff;
+}
+.navItem {
+  min-width: 10vw;
+  margin-left: 20px;
+  font-weight: 400;
+}
+.navLeft {
+  display: flex;
+  font-weight: 600;
+  font-size: 18px;
+  align-items: center;
+}
+.navRight {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

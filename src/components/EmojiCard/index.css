@@ -1,0 +1,22 @@
+/* Write your code here. */
+.emojiDiv {
+  border: 2px solid #ffffff30;
+  background-color: #ffffff33;
+  padding: 3vw;
+  border-radius: 20px;
+  margin: 8px;
+  margin-left: 2px;
+  width: 20vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.emojiImg {
+  width: 15vw;
+}
+.emojiBtn {
+  border-width: 0;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
